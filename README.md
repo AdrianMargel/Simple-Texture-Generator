@@ -1,4 +1,4 @@
-# Simple-Texture-Generator
+# Simple Texture Generator
 Generates simple stone textures
 ![tiles](https://i.imgur.com/BvAB3aZ.png)
 
